@@ -19,8 +19,7 @@ generates 16 character roblox gift cards, then you can run validator.py to check
 
 7. and your done! have fun with the codes :)
 
+this is a fork but i fixed the validator.py to not always give a 403 error code. you need to provide the ROBLOSECURITY cookie yourself.
 
 # contact
 **discord: mooper__**
-
-this is a fork but i fixed the validator.py to not always give a 403 error code.
