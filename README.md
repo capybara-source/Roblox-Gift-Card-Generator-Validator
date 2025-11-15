@@ -22,3 +22,5 @@ generates 16 character roblox gift cards, then you can run validator.py to check
 
 # contact
 **discord: mooper__**
+
+this is a fork but i fixed the validator.py to not always give a 403 error code.
